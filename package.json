@@ -1,5 +1,6 @@
 {
   "name": "covid-19-visualizer",
+  "description": "Simple dashboard to visualize Covid-19 recent state",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +9,14 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "@elastic/datemath": "^5.0.2",
+    "@elastic/eui": "^21.1.0",
+    "axios": "^0.19.2",
+    "chart.js": "^2.9.3",
+    "moment": "^2.24.0",
+    "react-chartjs-2": "^2.9.0",
+    "react-router-dom": "^5.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,6 +24,17 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "keywords": [
+    "covig-19",
+    "corona",
+    "virus",
+    "epidemic",
+    "reactjs",
+    "pandemic",
+    "dashboard"
+  ],
+  "author": "Ragib Ahsanul Huda",
+  "license": "MIT",
   "eslintConfig": {
     "extends": "react-app"
   },
