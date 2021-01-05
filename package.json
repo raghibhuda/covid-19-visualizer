@@ -12,7 +12,7 @@
     "react-scripts": "3.4.1",
     "@elastic/datemath": "^5.0.2",
     "@elastic/eui": "^21.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chart.js": "^2.9.3",
     "moment": "^2.24.0",
     "react-chartjs-2": "^2.9.0",
